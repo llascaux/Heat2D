@@ -1,0 +1,1 @@
+A Python model of the two dimensional heat equation. Uses Numpy and Matplotlib as libraries. For more information, please refer to the Heat2D PDF. Please feel free to improve upon the code in any way!
